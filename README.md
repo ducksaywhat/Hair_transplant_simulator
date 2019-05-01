@@ -2,8 +2,8 @@
 no transplant no hair（植发模拟）
 
 ##技术栈：
-* 前端：微信小程序
-* 后端：暂无
+* 前端：Javascript+WebGL+微信API
+* 后端：Java+Mysql+Python
 
 ## 软件截图：
 ![图1](images/1.png) 
@@ -12,7 +12,8 @@ no transplant no hair（植发模拟）
 ## 项目特点：
 * 体积小
 * 基于源生WebGL开发
-* 对底层微信API依赖较少
+* 对底层微信API依赖少
+* 移植性很强
 
 ## 目录结构说明：
 ```
