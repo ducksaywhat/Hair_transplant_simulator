@@ -36,6 +36,5 @@ no transplant no hair（植发模拟）
 4、服务端制作，这个交互性不难，所以不是很要紧的任务
 ```
 
-## dududu：
+## duckduckduck：
 Have a nice day!
-![图1](images/dudu.gif)
