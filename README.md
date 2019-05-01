@@ -38,4 +38,4 @@ no transplant no hair（植发模拟）
 
 ## dududu：
 Have a nice day!
-![图1](images/dudu.png)
+![图1](images/dudu.gif)
