@@ -6,4 +6,5 @@ no transplant no hair（植发模拟）
 * 后端：暂无
 
 ## 软件截图：
-![图1](images/1.png) ![图1](images/2.png)
+![图1](images/1.png) 
+![图1](images/2.png)
