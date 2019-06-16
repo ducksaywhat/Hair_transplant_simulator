@@ -3,7 +3,7 @@ no transplant no hair（植发模拟）
 
 ##技术栈：
 * 前端：Javascript+WebGL+微信API
-* 后端：Java+Mysql+Python
+* 后端：Java
 
 ## 软件截图：
 ![图1](images/1.png) 
